@@ -1,0 +1,18 @@
+.App-header {
+  display: flex;
+  color: #d73953;
+  border-bottom: 2px solid #d73953;
+  align-items: center;
+  font-size: larger;
+  font-weight: bolder;
+}
+
+.App-body {
+  padding: 1rem;
+}
+
+.App-footer {
+  border-top: 2px solid #d73953;
+  padding: 1rem;
+  text-align: center;
+}

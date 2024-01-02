@@ -1,0 +1,8 @@
+table#CourseList {
+  width: 100%;
+  border: 1px solid gray;
+}
+
+th{
+  border-bottom: 1.5px solid gray;
+}
